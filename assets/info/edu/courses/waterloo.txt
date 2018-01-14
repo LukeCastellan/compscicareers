@@ -1,0 +1,25 @@
+Courses:
+	CS 145 Designing Functional Programs (Advanced Level)
+	CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level) 
+	MATH 147 Calculus 1 (Advanced Level) 
+	MATH 138 Calculus 2 for Honours Mathematics 
+	MATH 145 Algebra (Advanced Level)
+	MATH 136 Linear Algebra 1 for Honours Mathematics 
+	MATH 249 Introduction to Combinatorics (Advanced Level)
+	STAT 240 Probability (Advanced Level) 
+	STAT 241 Statistics (Advanced Level)
+	CS 240 Data Structures and Data Management 
+	CS 241 Foundations of Sequential Programs 
+	CS 245 Logic and Computation 
+	CS 246 Object-Oriented Software Development
+	CS 251 Computer Organization and Design
+	CS 341 Algorithms 
+	CS 350 Operating Systems 
+	Three additional CS courses chosen from CS 340-CS 398, CS 440-CS 489.
+	Two additional CS courses chosen from CS 440-CS 489.
+	One additional course chosen from:
+	CO 487 Applied Cryptography 
+	CS 440 - CS 498 
+	CS 499T Honours Thesis 
+	STAT 440 Computational Inference 
+	CS 600- or 700-level courses 

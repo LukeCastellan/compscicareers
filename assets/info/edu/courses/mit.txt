@@ -1,0 +1,23 @@
+Courses:
+	Required Subjects
+		Intro: 1 subject
+		one of 6.01, 6.02, 6.03, 6.08 (formerly 6.S08)
+		Programming skills: 1 subject , one of the following:
+		6.0001, or
+		6.S080 (if taken concurrently with 6.01 or 6.08 (formerly 6.S08)
+		Foundation: 3 subjects
+		Three of 6.002, 6.003, 6.004, 6.006, 6.007, 6.008, 6.009
+		Header: 3 subjects
+		Three of 6.011, 6.012, 6.013, 6.014 (6.S084), 6.021, 6.031, 6.033, 6.034, 6.036, 6.045, 6.046
+		Two from AUS2 list
+		Two additional from EECS list
+		One of 6.UAT, 6.UAR
+		Math: One of 18.03, 2.087
+	Additional constraints:
+		At least one of these subjects must be from the DLAB2 list
+		At least one of these subjects must be from II list
+		At least two of these subjects must be from EE12 list
+		At least one of these subjects must be from the EECS12 list
+		At least two of these subjects must be from the CS12 list
+		At least one of these subjects must be from the PROB list
+		At least one of these subjects must be from CIM2 list

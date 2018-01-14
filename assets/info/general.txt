@@ -1,0 +1,16 @@
+NOC 2173: Software engineers and designers:
+
+About:
+Software engineers and designers research, design, evaluate, integrate and maintain software applications, technical environments, operating systems, embedded software, information warehouses and telecommunications software.
+They are employed in information technology consulting firms, information technology research and development firms, and information technology units throughout the private and public sectors, or they may be self-employed.
+
+Example Job Titles:
+	application architect
+	computer software engineer
+	embedded software engineer
+	software architect
+	software design engineer
+	software designer
+	software design verification engineer
+	software testing engineer
+	telecommunications software engineer

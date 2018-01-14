@@ -1,0 +1,24 @@
+$startup screen image
+Binary Data Stream and Computers: Online Masters in Software Engineering: MS & ME Degree Programs. (n.d.). Retrieved December 19, 2017, 
+#from <http://mastersinsoftwareengineering.net>
+
+$education
+//UWATERLOO
+Computer Science. (2017, November 22). Retrieved December 11, 2017,
+#from <https://uwaterloo.ca/future-students/programs/computer-science>
+Computer Science admission requirements for International Baccalaureate (IB) students. (n.d.). Retrieved December 18, 2017,
+#from <https://uwaterloo.ca/future-students/admissions/admission-requirements/computer-science/international-system/ib/>
+First-year tuition. (2017, October 25). Retrieved December 18, 2017,
+#from <https://uwaterloo.ca/future-students/financing/tuition>
+
+//MIT
+Degree Requirements for 6-1, 6-2, 6-3, 6-7, and 6-14. (2016). Retrieved December 13, 2017, 
+#from <https://www.eecs.mit.edu/curriculum2016>
+MIT Admissions. (n.d.). Retrieved December 19, 2017, 
+#from <http://mitadmissions.org/apply/international/howto>
+Undergraduate Fall and Spring Tuition 2017-2018. (2017). Retrieved December 19, 2017, 
+#from <http://web.mit.edu/registrar/reg/costs/undergraduate/ugrad_fallspring.html>
+
+//SENECA
+Computer Programmer. (n.d.). Retrieved December 18, 2017,
+#from <http://www.senecacollege.ca/programs/fulltime/CPD.html>

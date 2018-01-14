@@ -1,0 +1,13 @@
+Job Duties:
+
+Create detailed specifications for software from clients' demands
+	
+Use/create information in order to create software systems, including mobile applications
+	
+Plan/Coordinate the installation/deployment of software systems, including mobile applications
+
+Develop data, process and network models to optimize architecture and to evaluate the performance of designs
+	
+Test, troubleshoot, document, and develop maintenance procedures for operating systems and applications software
+	
+Lead and coordinate teams of information systems professionals in the development of software and  embedded software control systems.	

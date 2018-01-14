@@ -1,0 +1,27 @@
+Courses:
+	Semester 1
+		APC100	Applied Professional Communications
+		CPR101	Computer Principles for Programmers
+		EAC150	College English
+		IPC144	Introduction to Programming Using C
+		ULI101	Introduction to UNIX/Linux and the Internet
+		 
+	Semester 2
+		DBS201	Introduction to Database Design and SQL
+		DCF255	Data Communications Fundamentals
+		OOP244	Introduction to Object Oriented Programming
+		WEB222	Web Programming Principles
+		plus: General Education Course
+		 
+	Semester 3
+		DBS301	Database Design II and SQL Using Oracle
+		OOP345	Object-Oriented Software Development Using C++
+		SYS366	Requirements Gathering Using OO Models
+		WEB322	Web Programming Tools and Framework
+		plus: General Education Course
+		 
+	Semester 4
+		BCI433	IBM Business Computing
+		EAC397	Business Report Writing
+		JAC444	Introduction to Java for C++ Programmers
+		plus: General Education Course

@@ -1,0 +1,27 @@
+Computer Science at Waterloo:
+
+@University of Waterloo
+Entrance Requirements:
+	Students in Ontario:
+	6 Grade 12 U and/or M courses including:
+			Advanced Functions
+			Calculus and Vectors
+			Any Grade 12 U English
+			One other 4U course
+		Recommended: Grade 11 U Introduction to Computer Science
+		Recommended: Euclid Mathematics Contest
+	Students in IB:
+		SL/HL Mathematics - minimum 6 points
+		SL/HL English A
+		31 IB points in total
+		Recommended: Euclid Mathematics Contest
+		Recommended: All prerequisite subjects at HL
+Program Length:
+		5 years
+Tuition:
+	Students in Canada:
+		$14,557 (As of Fall 2017) + $2000 (Books and Supplies)
+	International Students:
+		$32,658 (As of Fall 2017) + $2000 (Books and Supplies)
+Credential Awarded:
+	Bachelor Degree of Computer Science (or Mathematics)

@@ -1,0 +1,19 @@
+$job duties, titles, about
+Government of Canada, Employment and Social Development Canada. (2015, February 10). 2173 Software engineers and designers. Retrieved December 13, 2017, 
+#from <http://noc.esdc.gc.ca/English/noc/QuickSearch.aspx?ver=16&val65=2173>
+
+$pay
+Explore Careers - Wage Report. (2017, November 15). Retrieved December 18, 2017, 
+#from <https://www.jobbank.gc.ca/LMI_report_bynoc.do?noc=2173&reportOption=wage>
+
+$market outlook
+Market Outlook in Image form: Explore Careers - Outlook Report. (2017, November 15). Retrieved December 19, 2017, 
+#from <https://www.jobbank.gc.ca/LMI_report_bynoc.do?noc=2173&reportOption=outlook>
+
+$job postings
+Lead Cloud Application Architect in Toronto, Ontario, Canada | Technology at RBC. (2017, October 18). Retrieved December 19, 2017,
+#from <https://jobs.rbc.com/ca/en/job/RBCAA008828560/Lead-Cloud-Application-Architect?utm_source=workopolis&tcsource=apply&utm_campaign=rbc_enterprise&utm_medium=Workopolis>
+INTELLIGENCE SPECIALIST. (2017, December 19). Retrieved December 19, 2017, 
+#from <https://www.usajobs.gov/GetJob/ViewDetails/487089000>
+Research Analyst I. (2017, November 22). Retrieved December 19, 2017,
+#from <http://energycenter.org/jobs/research-analyst-i>
